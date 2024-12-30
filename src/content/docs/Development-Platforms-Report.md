@@ -93,7 +93,7 @@ Pull request created by bot
 
 
 
-![Pull request created by Ellipsis bot](https://i.ibb.co/31HFztr/pull-request-created-by-bot-3.png)
+![Pull request created by Ellipsis bot](./pull-request-created-by-bot-3.png)
 
 
 
