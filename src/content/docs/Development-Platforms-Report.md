@@ -1,6 +1,6 @@
 # A Case Study on the Development Tool Ellipsis and similar products
 
-# Introduction and history
+## Introduction and history
 
 Ellipsis is a for profit company, founded in 2023 by Hunter Brooks and Nick Bradford with headquaters located in New York, USA. 
 
@@ -11,7 +11,7 @@ It currently has 13 investors, the two most recent being TwentyTwo VC and Brad F
 In this last year, it has raised over $2million. In February 2024 it raised $500,000 from Y Combinator and in April 2024 it raised $2million from Amino Capital and 11 other investors.
 
 
-# Using Ellipsis
+## Using Ellipsis
 
 
 Ellipsis have created a developer tool called Ellipsis for reviewing code and fixing bugs. 
@@ -34,13 +34,13 @@ The application uses LLM’s to generate the pull request summaries and comments
 
 It has a dashboard in the application where you can see pull request data, such as, the number of merged pull requests, total lines changed and you can also add code review rules. 
 
-# Dashboard Images
+### Dashboard Images
 ![Ellipsis Dashboard](https://i.ibb.co/b1wBYP3/Dashboard-image.png)
 
 
-# Pros and cons of Ellipsis
+## Pros and cons of Ellipsis
 
-# Pros
+### Pros
 
 
 - Any code that it generates, when fixing bugs, it runs and tests, so that it is actual working code, unlike other AI tools.
@@ -63,14 +63,14 @@ bottom of the comment, so you know the bot is reading the comment. Furthermore, 
 very handy, I asked the bot to add a dependency and it created a new pull request addressing 
 this within less than a minute. please see screenshots, below:
 
-# Pull request summary 
+### Pull request summary 
 
 ![Ellipsis pull request summary](./Pull-Request-summary-1.png)
 
 
 
 
-# Loading eyes when sending comment to bot
+### Loading eyes when sending comment to bot
 ![Ellipsis loading image](./comment-loading-image.png)
 
 
@@ -78,12 +78,12 @@ this within less than a minute. please see screenshots, below:
 
 
 
-# Bot’s helpful response
+### Bot’s helpful response
 ![Ellipsis bot's response on pull request](https://i.ibb.co/10k2SRF/Bots-helpful-response.png)
 
 
 
-# Pull request created by bot 
+### Pull request created by bot 
 ![Pull request created by Ellipsis bot](https://i.ibb.co/W6H3fh2/Pull-request-created-by-bot-1.png)
 
 
@@ -97,7 +97,7 @@ this within less than a minute. please see screenshots, below:
 
 
 
-# Cons
+### Cons
 
 
 I was unable to find any reviews on this tool, so i tested it myself.
@@ -107,9 +107,9 @@ I found the bot a bit slow when initially loading comments on your pull request,
 I also thought it would be better if you didn’t have to use the tag when sending a comment to Ellipsis, as I did forget this once and was confused when it didn’t work. So I think that people could easily forget to add the tag and this could slow down the whole process slightly.
 
 
-# Other Similar Products
+## Other Similar Products
 
-# Squire AI
+### Squire AI
 
 Squire AI is an agentic code review and quality platform founded in 2021 by Saumil Patel, Brandon Waselnuk and Karl Clement with headquarters located in San Francisco, USA. It has created a similar tool to Ellipsis and its current features are AI code review, pull request summaries, enforce rules and chat with your Squire.
 
@@ -148,7 +148,7 @@ Anywhere. https://www.automationanywhere.com/rpa/agentic-
 workflows#:~:text=Agentic%20workflows%20represent%20sequences%20of,AI%20agents
 %20to%20process%20automation.
 
-# Qodo
+### Qodo
 
 Qodo is a software development company, which was founded in 2022 by Itamar Friedman. It’s headquarters are located in Tel Aviv, Israel. They currently have 10 investors and have raised $51M so far. 
 
@@ -169,7 +169,7 @@ This platform seems to work slightly differently from the other two, where inste
 
 
 
-# Conclusion
+## Conclusion
 
 Overall I think this is a great product and I can see how it would speed up the process of reviewing code and potentially spot errors that the human eye might not. 
 
@@ -184,7 +184,7 @@ However, I still prefer Ellipsis overall because I believe Ellipsis is easier to
 I look forward to seeing how this product develops in the future.
 
 
-# Sources
+## Sources
 
 https://www.ellipsis.dev/
 
