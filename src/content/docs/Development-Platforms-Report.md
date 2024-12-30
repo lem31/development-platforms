@@ -1,4 +1,4 @@
-<p style="text-align:center"> # A Case Study on the Development Tool Ellipsis and similar products </p>
+# <p style="text-align:center"> A Case Study on the Development Tool Ellipsis and similar products </p>
 
 ## Introduction and history
 
