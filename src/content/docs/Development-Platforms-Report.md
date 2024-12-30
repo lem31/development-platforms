@@ -65,7 +65,7 @@ this within less than a minute. please see screenshots, below:
 
 Pull request summary 
 
-![Ellipsis pull request summary](https://i.ibb.co/J31vGRp/Pull-Request-summary-1.png)
+![Ellipsis pull request summary](/Pull-Request-summary-1.png)
 
 
 
