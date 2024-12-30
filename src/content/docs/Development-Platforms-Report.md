@@ -68,8 +68,13 @@ Pull request summary
 ![Ellipsis pull request summary](https://i.ibb.co/J31vGRp/Pull-Request-summary-1.png)
 
 
+
+
 Loading eyes when sending comment to bot
 ![Ellipsis loading comments image](https://i.ibb.co/XkZGZ07/comment-loading-image.png)
+
+
+
 
 
 
