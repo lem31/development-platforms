@@ -84,7 +84,7 @@ Cons
 
 I was unable to find any reviews on this tool, so i tested it myself.
 
-I found was that the bot is a bit slow to load any comments on your pull request, so I thought it wasn’t working at first but it just takes a while to load. It could be good if there was some kind of indication or message on the screen to let you know that the bot is loading comments. 
+I found the bot a bit slow when loading comments on your pull request, so I thought it wasn’t working at first but it just takes a while to load. It could be good if there was some kind of indication or message on the screen to let you know that the bot is loading comments. 
 
 I also thought it would be better if you didn’t have to use the tag when sending a comment to Ellipsis, as I did forget this once and was confused when it didn’t work. So I think that people could easily forget to add the tag and this could slow down the whole process slightly.
 
