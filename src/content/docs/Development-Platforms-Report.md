@@ -38,7 +38,7 @@ It has a dashboard in the application where you can see pull request data, such 
 ![Ellipsis Dashboard](https://i.ibb.co/b1wBYP3/Dashboard-image.png)
 
 
-## Pros and cons of Ellipsis
+## <p align="center"> Pros and cons of Ellipsis </p>
 
 ### Pros
 
