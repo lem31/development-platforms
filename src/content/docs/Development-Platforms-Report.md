@@ -71,13 +71,26 @@ Pull request summary
 Loading eyes when sending comment to bot
 ![Ellipsis loading comments image](https://i.ibb.co/XkZGZ07/comment-loading-image.png)
 
+
+
 Bot’s helpful response
 ![Ellipsis bot's response on pull request](https://i.ibb.co/10k2SRF/Bots-helpful-response.png)
 
+
+
 Pull request created by bot 
 ![Pull request created by Ellipsis bot](https://i.ibb.co/W6H3fh2/Pull-request-created-by-bot-1.png)
+
+
+
 ![Pull request created by Ellipsis bot](https://i.ibb.co/CVtKYH8/Pull-request-created-by-bot-2.png)
+
+
+
+
 ![Pull request created by Ellipsis bot](https://i.ibb.co/31HFztr/pull-request-created-by-bot-3.png)
+
+
 
 Cons
 
