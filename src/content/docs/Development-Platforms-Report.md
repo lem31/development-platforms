@@ -107,7 +107,7 @@ I was unable to find any reviews on this tool, so i tested it myself.
 - I also thought it would be better if you didn’t have to use the tag when sending a comment to Ellipsis, as I did forget this once and was confused when it didn’t work. So I think that people could easily forget to add the tag and this could slow down the whole process slightly.
 
 
-## Other Similar Products
+## <p align="center"> Other Similar Products </p>
 
 ### Squire AI
 
