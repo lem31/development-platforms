@@ -71,7 +71,7 @@ Pull request summary
 
 
 Loading eyes when sending comment to bot
-![Ellipsis loading comments image](https://ibb.co/Z16b64B)
+![Ellipsis loading image](https://i.ibb.co/XkZGZ07/comment-loading-image.png)
 
 
 
